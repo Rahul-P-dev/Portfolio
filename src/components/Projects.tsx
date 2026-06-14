@@ -18,7 +18,7 @@ const Projects = () => {
       title: "OR Based blackchain technology",
       description: "A QR-Based Blockchain System that securely stores and verifies data using blockchain technology. Each QR code is uniquely linked to an immutable blockchain record, enabling instant authentication while preventing data tampering and fraud. The project provides a transparent, decentralized, and secure solution for digital verification and document validation.",
       tech: ["HTML", "CSS", "JavaScript", "Python","QR Code Technology","SQLite"],
-      image: "https://drive.google.com/file/d/17mG2qwGqZWJH1FpXh1U7kHxij13IFTKE/view?usp=drive_link",
+      image: "https://res.cloudinary.com/di06ujj3n/image/upload/f_auto,q_auto/QR_i6wn78",
       gradient: "from-blue-500 to-cyan-500",
       align: "right",
       githubUrl: "https://github.com/Rahul-P-dev/Medicine-Blockchain.git"
@@ -28,7 +28,7 @@ const Projects = () => {
       title: "E-Commerce Platform",
       description: "A premium, fully responsive E-Commerce platform built from scratch using only semantic HTML5, modern CSS3 (Glassmorphism, Dark Mode), and Vanilla JavaScript. Features dynamic product rendering, a live search engine, local storage cart/wishlist persistence, quick-view filters, and a mobile-first design framework with no dependencies.",
       tech: ["HTML", "CSS", "JavaScript"],
-      image: "https://drive.google.com/file/d/1U7jixrH_we2RFHBCPQBuZB3iRQQbnatz/view?usp=drive_link",
+      image: "https://res.cloudinary.com/di06ujj3n/image/upload/f_auto,q_auto/QR_i6wn78",
       gradient: "from-purple-500 to-pink-500",
       align: "left",
       githubUrl: "https://github.com/Rahul-P-dev/CholaShop.git"

@@ -28,7 +28,7 @@ const Projects = () => {
       title: "E-Commerce Platform",
       description: "A premium, fully responsive E-Commerce platform built from scratch using only semantic HTML5, modern CSS3 (Glassmorphism, Dark Mode), and Vanilla JavaScript. Features dynamic product rendering, a live search engine, local storage cart/wishlist persistence, quick-view filters, and a mobile-first design framework with no dependencies.",
       tech: ["HTML", "CSS", "JavaScript"],
-      image: "https://res.cloudinary.com/di06ujj3n/image/upload/f_auto,q_auto/QR_i6wn78",
+      image: "https://res.cloudinary.com/di06ujj3n/image/upload/v1781409785/E-commerces_vqdiwl.png",
       gradient: "from-purple-500 to-pink-500",
       align: "left",
       githubUrl: "https://github.com/Rahul-P-dev/CholaShop.git"

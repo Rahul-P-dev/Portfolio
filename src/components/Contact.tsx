@@ -63,7 +63,7 @@ const Contact = () => {
   const handleResumeDownload = () => {
     // Create a dummy PDF download - in real implementation, you'd link to your actual resume
     const link = document.createElement('a');
-    link.href = './Resume.pdf'; 
+    link.href = 'public/Rahul-resume.pdf'; 
     link.download = 'Rahul_Resume.pdf';
     document.body.appendChild(link);
     link.click();
